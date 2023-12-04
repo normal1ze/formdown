@@ -10,7 +10,7 @@ Check out https://formdown.com
 
 ### Issues
 
-If there are any issues or questions please create a new issue request.
+If there are any issues or questions please [create a new issue](https://github.com/normal1ze/formdown/issues/new) request.
 
 ### Notes
 
