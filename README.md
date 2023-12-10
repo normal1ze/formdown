@@ -8,7 +8,7 @@
 
 Check out https://formdown.net
 
-
+![Screenshot](https://raw.githubusercontent.com/normal1ze/formdown/main/formdown-example.gif)
 
 ### Issues
 
